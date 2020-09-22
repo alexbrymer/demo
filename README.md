@@ -11,7 +11,7 @@
 
 <param ve-entity eid="Q12439" title="Detroit">
 "
-Ann-Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann-Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann Arbor is also included in the larger Greater Detroit Combined Statistical Area.[^1]
+Ann-Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann-Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann-Arbor is also included in the larger Greater Detroit Combined Statistical Area.[^1]
 <param ve-map center="Q485172" zoom="12">
 <param ve-entity eid="Q485172" title="Ann Arbor">
 
@@ -27,7 +27,7 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNjkxMzYxLDc5MzA5MTc5LDE4NDA0Nj
-c1NDIsLTE5NTQxOTkwMzQsMjA3MDk3OTU1MCwtMTI1Mzc0NTgy
-MiwtMjExNzAxMjg5OCwxNzAzMTMwOTIzXX0=
+eyJoaXN0b3J5IjpbLTgzNzIwOTgwNCw3OTMwOTE3OSwxODQwND
+Y3NTQyLC0xOTU0MTk5MDM0LDIwNzA5Nzk1NTAsLTEyNTM3NDU4
+MjIsLTIxMTcwMTI4OTgsMTcwMzEzMDkyM119
 -->
