@@ -5,7 +5,7 @@
 
 # Ann Arbor
 
-<param ve-map>
+<param ve-map zoom="8">
 
 ## Overview
 
@@ -25,7 +25,7 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTkxNzk0LDE4NDA0Njc1NDIsLTE5NT
+eyJoaXN0b3J5IjpbMTAzMDM3MDIwLDE4NDA0Njc1NDIsLTE5NT
 QxOTkwMzQsMjA3MDk3OTU1MCwtMTI1Mzc0NTgyMiwtMjExNzAx
 Mjg5OCwxNzAzMTMwOTIzXX0=
 -->
