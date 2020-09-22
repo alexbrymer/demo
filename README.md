@@ -16,8 +16,8 @@ Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washten
 <param ve-entity eid="Q485172" title="Ann Arbor">
 
 Ann Arbor is home to the University of Michigan. The university significantly shapes Ann Arbor's economy as it employs about 30,000 workers, including about 12,000 in the medical center. The city's economy is also centered on high technology, with several companies drawn to the area by the university's research and development infrastructure. Another university near by is East Lansing.
-<param ve-entity eid="Q485172" title="Ann Arbor">
 <param ve-entity eid="Q871265" title="East Lansing">
+<param ve-map center="Q871265" zoom="12">
 
 ## Subsection
 
@@ -27,7 +27,7 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTUxMDc0NSwxODQwNDY3NTQyLC0xOT
+eyJoaXN0b3J5IjpbMjExODY3OTczNiwxODQwNDY3NTQyLC0xOT
 U0MTk5MDM0LDIwNzA5Nzk1NTAsLTEyNTM3NDU4MjIsLTIxMTcw
 MTI4OTgsMTcwMzEzMDkyM119
 -->
