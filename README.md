@@ -2,7 +2,7 @@
        title="Ann Arbor" 
        author="Ron" 
        layout="vtl"   
-   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Downtown_Ann_Arbor%2C_2020-05-05.jpg/1024px-Downtown_Ann_Arbor%2C_2020-05-05.jpg">
+ banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Downtown_Ann_Arbor%2C_2020-05-05.jpg/1024px-Downtown_Ann_Arbor%2C_2020-05-05.jpg">
 
 # Ann Arbor
 
@@ -16,6 +16,6 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIzODczNTgsLTIxMTcwMTI4OTgsMT
+eyJoaXN0b3J5IjpbLTE2MzQ5MjkxMTgsLTIxMTcwMTI4OTgsMT
 cwMzEzMDkyM119
 -->
