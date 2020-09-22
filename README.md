@@ -1,4 +1,4 @@
-<param ve-config title="Ann Arbor" author="Ron">
+<param ve-config title="Ann Arbor" author="Ron" layout="vtl">
 
 # Ann Arbor
 
@@ -12,5 +12,5 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNzAwMDU3LDE3MDMxMzA5MjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTcwMTI4OTgsMTcwMzEzMDkyM119
 -->
