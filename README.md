@@ -12,6 +12,7 @@
 <param ve-entity eid="Q485172">
 
 Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washtenaw County. The 2010 census recorded its population to be 113,934. It is the principal city of the Ann Arbor Metropolitan Statistical Area, which encompasses all of Washtenaw County. Ann Arbor is also included in the larger Greater Detroit Combined Statistical Area.[^1]
+<param ve-map zoom="10">
 
 Ann Arbor is home to the University of Michigan. The university significantly shapes Ann Arbor's economy as it employs about 30,000 workers, including about 12,000 in the medical center. The city's economy is also centered on high technology, with several companies drawn to the area by the university's research and development infrastructure.
 
@@ -23,7 +24,7 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1ODM4NjI0LDE4NDA0Njc1NDIsLTE5NT
+eyJoaXN0b3J5IjpbMjM1NDUzMjY2LDE4NDA0Njc1NDIsLTE5NT
 QxOTkwMzQsMjA3MDk3OTU1MCwtMTI1Mzc0NTgyMiwtMjExNzAx
 Mjg5OCwxNzAzMTMwOTIzXX0=
 -->
