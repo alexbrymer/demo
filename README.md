@@ -8,7 +8,7 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 
 ## References
 
-[^wp]: 
+[^wp]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MDM5NDE3XX0=
+eyJoaXN0b3J5IjpbMTcwMzEzMDkyM119
 -->
