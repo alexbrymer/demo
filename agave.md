@@ -17,3 +17,10 @@ Agave americana, common names sentry plant, century plant, maguey or American al
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Agave_americana_Pune_04.jpg"
                 title="Agave americana plant in Pune, India"
                 attribution="Wikimedia commons">
+
+## Description
+
+Although it is called the century plant, it typically lives only 10 to 30 years. It has a spread around 6–10 ft (1.8–3.0 m) with <span data-click-image-zoomto="2979,2315,756,1166">gray-green leaves</span> of 3–5 ft (0.9–1.5 m) long, each with a prickly margin and a heavy spike at the tip that can pierce deeply. Near the end of its life, the plant sends up a tall, branched stalk, laden with yellow blossoms, that may reach a total height up to 25–30 ft (8–9 m) tall.  Its common name derives from its semelparous nature of flowering only once at the end of its long life. The plant dies after flowering, but produces suckers or adventitious shoots from the base, which continue its growth.[7]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/99/Agave_americana_Pune_04.jpg"
+                title="Agave americana plant in Pune, India"
+                attribution="Wikimedia commons">
