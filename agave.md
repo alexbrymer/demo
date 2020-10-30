@@ -12,5 +12,5 @@
 <param eid="Q1439" title="Texas">
 
 Agave americana, common names sentry plant, century plant, maguey or American aloe, is a species of flowering plant in the family Asparagaceae, native to Mexico and the United States in New Mexico, Arizona and Texas. Today, it is cultivated worldwide as an ornamental plant. It has become naturalized in many regions, including the West Indies, parts of South America, the southern Mediterranean Basin, and parts of Africa, India, China, Thailand, and Australia.
-<param ve-map center="Q1439" zoom="10" prefer-geojson>
+<param ve-map center="Q1439" zoom="4" prefer-geojson>
 <param ve-specimen eid="Q161115" max="3">
