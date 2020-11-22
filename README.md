@@ -1,3 +1,5 @@
+<a href="https://visual-essays.app"><img src="images/ve-button.png"></a>
+
 <param ve-config 
        title="Ann Arbor" 
        author="Ron" 
