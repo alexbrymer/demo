@@ -1,3 +1,5 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config 
        title="Ann Arbor" 
        author="Ron" 
@@ -27,10 +29,3 @@ Ann Arbor was founded in 1824, named for wives of the village's founders, both n
 ## References
 
 [^1]:  https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDUwOTAxLC0xOTQ3MzU4Njc3LC0xOT
-A4MjE5NzU3LDE3Mjc2OTUyMTcsMTg0Mzk3MTc4NSw3OTMwOTE3
-OSw3OTMwOTE3OSwxODQwNDY3NTQyLC0xOTU0MTk5MDM0LDIwNz
-A5Nzk1NTAsLTEyNTM3NDU4MjIsLTIxMTcwMTI4OTgsMTcwMzEz
-MDkyM119
--->
