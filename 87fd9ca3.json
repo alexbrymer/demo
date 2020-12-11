@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=README/87fd9ca3",
-    "total": 3,
-    "modified": "2020-12-10T18:28:01.425843"
+    "total": 4,
+    "modified": "2020-12-11T11:50:05.979329"
   },
   "startIndex": 0,
   "items": [
@@ -70,6 +70,27 @@
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "README/87fd9ca3/8d93c45b",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "clock tower",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3379.12255859375,1562.2540283203125,652.55517578125,865.0150146484375"
+        },
+        "id": "README/87fd9ca3"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "README/87fd9ca3/773681b8",
       "seq": 0
     }
   ]
