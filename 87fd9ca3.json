@@ -1,11 +1,11 @@
 {
   "@context": "http://www.w3.org/ns/anno.jsonld",
-  "id": "http://visual-essays.app/annotations/?include=description&target=/87fd9ca3",
+  "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
   "type": "AnnotationPage",
   "partOf": {
-    "id": "http://visual-essays.app/annotations/?include=description&target=/87fd9ca3",
+    "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
     "total": 4,
-    "modified": "2020-12-15T16:36:39.541035"
+    "modified": "2020-12-15T17:26:01.819291"
   },
   "startIndex": 0,
   "items": [
