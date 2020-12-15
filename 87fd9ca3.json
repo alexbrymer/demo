@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
+    "total": 1,
+    "modified": "2020-12-15T17:28:01.155443"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tower",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:3360.59326171875,1546.6444091796875,582.83349609375,913.5191650390625"
+        },
+        "id": "87fd9ca3"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "87fd9ca3/4401a00e",
+      "seq": 0
+    }
+  ]
+}
