@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
-    "total": 2,
-    "modified": "2020-12-15T17:29:20.082441"
+    "total": 1,
+    "modified": "2020-12-15T17:29:35.720186"
   },
   "startIndex": 0,
   "items": [
@@ -29,27 +29,6 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "87fd9ca3/4401a00e",
       "seq": 0
-    },
-    {
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Theater marque",
-          "purpose": "commenting"
-        }
-      ],
-      "target": {
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:475.36065673828125,2418.827880859375,1438.4827270507812,657.23779296875"
-        },
-        "id": "87fd9ca3"
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "87fd9ca3/dd53cdfc",
-      "seq": 1
     }
   ]
 }
