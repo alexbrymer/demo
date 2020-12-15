@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
     "total": 2,
-    "modified": "2020-12-15T17:28:36.835476"
+    "modified": "2020-12-15T17:29:20.082441"
   },
   "startIndex": 0,
   "items": [
@@ -14,7 +14,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Tower",
+          "value": "Clock tower",
           "purpose": "commenting"
         }
       ],
@@ -24,7 +24,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:3360.59326171875,1546.6444091796875,582.83349609375,913.5191650390625"
         },
-        "id": "87fd9ca3"
+        "id": "rsnyder/demo/master/87fd9ca3"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "87fd9ca3/4401a00e",
