@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=87fd9ca3",
-    "total": 1,
-    "modified": "2020-12-15T17:29:35.720186"
+    "total": 2,
+    "modified": "2020-12-15T18:48:20.201931"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "87fd9ca3/4401a00e",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mich",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:615.902099609375,492.5838623046875,715.1077880859375,868.0499267578125"
+        },
+        "id": "87fd9ca3"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "87fd9ca3/a3aa5114",
+      "seq": 1
     }
   ]
 }
