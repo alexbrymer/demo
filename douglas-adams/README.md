@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
-<ve-config title="Douglas Adams" layout="vertical">
+<param ve-config title="Douglas Adams" layout="vertical">
    
 # Douglas Adams
 
