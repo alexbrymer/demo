@@ -22,6 +22,7 @@ in 2005 [a feature
 film](The_Hitchhiker's_Guide_to_the_Galaxy_(film) "wikilink"). Adams's
 contribution to UK radio is commemorated in [The Radio
 Academy](Radio_Academy "wikilink")'s Hall of Fame.[^1]
+<para ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Douglas_adams_portrait.jpg">
 
 Adams also wrote *[Dirk Gently's Holistic Detective
 Agency](Dirk_Gently's_Holistic_Detective_Agency "wikilink")* (1987) and
