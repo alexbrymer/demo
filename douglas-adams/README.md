@@ -1,5 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
+<ve-config title="Douglas Adams" layout="vertical">
+   
 # Douglas Adams
 
 **Douglas Noel Adams** (11 March 1952 – 11 May 2001) was an English
