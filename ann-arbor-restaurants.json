@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Mani Osteria and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74426513910294,
+          42.279651503703334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Old Town Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74968454241753,
+          42.27977851068989
+        ]
+      }
+    }
+  ]
+}
