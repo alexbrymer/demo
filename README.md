@@ -22,6 +22,11 @@ Ann Arbor is a city in the U.S. state of Michigan and the county seat of Washten
 Ann Arbor is home to the University of Michigan. The university significantly shapes Ann Arbor's economy as it employs about 30,000 workers, including about 12,000 in the medical center. The city's economy is also centered on high technology, with several companies drawn to the area by the university's research and development infrastructure. Another university near by is East Lansing.
 <param ve-map center="Q871265" zoom="12">
 
+## Restaurants
+
+Mani Osteria is a favorite restaurant in Ann Arbor probably most well-known for their wood oven pizza.  I'm also a big fan of their many unique appetizers and desserts.  If you have a chance to visit Mani check our their pickled tomatoes and Califlower Friti.  
+<param ve-map center="Q485172"
+
 ## Founded
 
 Ann Arbor was founded in 1824, named for wives of the village's founders, both named Ann, and the stands of bur oak trees. The University of Michigan moved from Detroit to Ann Arbor in 1837, and the city grew at a rapid rate in the early to mid-20th century. During the 1960s and 1970s, the city gained a reputation as a center for left-wing politics. Ann Arbor became a focal point for political activism, such as opposition to the Vietnam War and support for the legalization of cannabis.
