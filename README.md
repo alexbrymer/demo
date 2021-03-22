@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://essays.juncture-digital.org"><img src="/images/ve-button.png"></a>
 
 <param ve-config 
        title="Ann Arbor" 
