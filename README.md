@@ -25,7 +25,7 @@ Ann Arbor is home to the University of Michigan. The university significantly sh
 ## Restaurants
 
 Mani Osteria is a favorite restaurant in Ann Arbor probably most well-known for their wood oven pizza.  I'm also a big fan of their many unique appetizers and desserts.  If you have a chance to visit Mani check our their pickled tomatoes and Califlower Friti.  
-<param ve-map center="Q485172" zoom="14">
+<param ve-map show-labels center="Q485172" zoom="15">
 <param ve-map-layer geojson url="ann-arbor-restaurants.json">
 
 ## Founded
